@@ -5,6 +5,8 @@ const generateMarkdown = (data) => {
 ## Description
 ${data.description}
 
+![Clip](https://github.com/wisethee/js-pro-md/blob/feat/dev/assets/screen-rec.mp4?raw=true)
+
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
