@@ -66,9 +66,9 @@ const questions = [
   {
     type: "input",
     name: "usage",
-    message: "Please enter the usage information",
+    message: "What command should be run to run tests to your project?",
     default() {
-      return "Run the command ```npm run``` in the CLI. As you answer each question you dynamically build the README.md sections.";
+      return "npm start";
     },
   },
   {
