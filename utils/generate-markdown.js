@@ -1,9 +1,10 @@
 // function to generate markdown for README
 const generateMarkdown = (data) => {
   return `
-# ${data.title}
+# :file_folder: ${data.title}
 ## Description
 ${data.description}
+
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
