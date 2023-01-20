@@ -16,7 +16,10 @@ To install necessary dependencies, run the following command:
 ${data.installation}
 \`\`\`
 ## Usage
+Run the command npm run in the CLI. As you answer each question you dynamically build the README.md sections.
+\`\`\`
 ${data.usage}
+\`\`\`
 ## Questions
 If you have any questions about the repo, open an issue or contact me directly at ${data.email}. You can find more of my work at [${data.username}](https://github.com/${data.username}).
 ## License
