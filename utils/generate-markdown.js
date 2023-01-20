@@ -5,7 +5,7 @@ const generateMarkdown = (data) => {
 ## Description
 ${data.description}
 
-<video src="https://github.com/wisethee/js-pro-md/blob/feat/dev/assets/screen-rec.mp4"></video>
+![Click to see the video](https://github.com/wisethee/js-pro-md/blob/feat/dev/assets/screen-rec.mp4)
 
 ## Table of Contents
 * [Installation](#installation)
