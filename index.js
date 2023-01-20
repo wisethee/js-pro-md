@@ -68,7 +68,7 @@ const questions = [
     name: "usage",
     message: "Please enter the usage information",
     default() {
-      return "Usage information";
+      return "Run the command ```npm run``` in the CLI. As you answer each question you dynamically form the sections, and table of contents for your README.";
     },
   },
   {
