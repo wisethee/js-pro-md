@@ -28,4 +28,4 @@ If you have any questions about the repo, open an issue or contact me directly a
 ## License
 This project is licensed under the MIT license.
 
-![badge](https://img.shields.io/badge/license-MITLicense-brightorange)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](LICENSE)
