@@ -5,7 +5,7 @@ This is a command line interface application which creates a README file for you
 
 https://user-images.githubusercontent.com/31074930/213800562-2716d2e0-0ade-484e-bc23-63e2d27d8bca.mp4
 
-![Click to see the video](https://user-images.githubusercontent.com/31074930/213800562-2716d2e0-0ade-484e-bc23-63e2d27d8bca.mp4)
+[Click to see the video](https://user-images.githubusercontent.com/31074930/213800562-2716d2e0-0ade-484e-bc23-63e2d27d8bca.mp4)
 
 ## Table of Contents
 * [Installation](#installation)
