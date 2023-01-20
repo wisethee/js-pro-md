@@ -14,7 +14,15 @@ To install necessary dependencies, run the following command:
 npm i
 ```
 ## Usage
-Run the command ```npm run``` in the CLI. As you answer each question you dynamically build the README.md sections.
+Run the following command to start the app.
+```
+npm start
+```
+## Tests
+The following command can be used to test the application.
+```
+npm run test
+```
 ## Questions
 If you have any questions about the repo, open an issue or contact me directly at marius.paduraru@gmail.com. You can find more of my work at [wisethee](https://github.com/wisethee).
 ## License
