@@ -3,18 +3,15 @@
 ## Description
 This is a command line interface application which creates a README file for your application repositories. This will allow people to understand how your app works, how to install it, and how other developers can contribute to your project. This README.md is being created via this system.
 
-![Click to see the video(https://github.com/wisethee/js-pro-md/blob/feat/dev/assets/cover.jpg?raw=true)](https://github.com/wisethee/js-pro-md/blob/feat/dev/assets/screen-rec.mp4?raw=true)
+https://user-images.githubusercontent.com/31074930/213800562-2716d2e0-0ade-484e-bc23-63e2d27d8bca.mp4
 
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [Questions](#questions)
 * [License](#license)
+
 ## Installation
-
-https://user-images.githubusercontent.com/31074930/213800562-2716d2e0-0ade-484e-bc23-63e2d27d8bca.mp4
-
-
 To install necessary dependencies, run the following command:
 ```
 npm i
