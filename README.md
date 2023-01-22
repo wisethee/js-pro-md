@@ -5,8 +5,9 @@ This is a command line interface application which creates a README file for you
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](LICENSE)
 
-https://user-images.githubusercontent.com/31074930/213800562-2716d2e0-0ade-484e-bc23-63e2d27d8bca.mp4
-![Click to see the video](https://github.com/wisethee/js-pro-md/blob/feat/dev/assets/screen-rec.mp4?raw=true)
+https://user-images.githubusercontent.com/31074930/213944962-dce58843-96f4-4531-9503-1548cd8e6ed7.mp4
+
+![Click to see the video](https://user-images.githubusercontent.com/31074930/213944962-dce58843-96f4-4531-9503-1548cd8e6ed7.mp4?raw=true)
 
 ## Table of Contents
 * [Installation](#installation)
