@@ -4,6 +4,7 @@ const generateMarkdown = (data) => {
 # :file_folder: ${data.title}
 ## Description
 ${data.description}
+
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](LICENSE)
 
 https://user-images.githubusercontent.com/31074930/213800562-2716d2e0-0ade-484e-bc23-63e2d27d8bca.mp4
