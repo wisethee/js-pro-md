@@ -1,11 +1,13 @@
 // function to generate markdown for README
 const generateMarkdown = (data) => {
   return `
-# :file_folder: ${data.title}
-## Description
-${data.description}
+# ${data.title}
 
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](LICENSE)
+
+
+## Description
+${data.description}
 
 https://user-images.githubusercontent.com/31074930/213800562-2716d2e0-0ade-484e-bc23-63e2d27d8bca.mp4
 ![Click to see the video](https://github.com/wisethee/js-pro-md/blob/feat/dev/assets/screen-rec.mp4?raw=true)
