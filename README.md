@@ -8,7 +8,7 @@ This is a command line interface application which creates a README file for you
 
 https://user-images.githubusercontent.com/31074930/213944962-dce58843-96f4-4531-9503-1548cd8e6ed7.mp4
 
-![Click to see the video](https://user-images.githubusercontent.com/31074930/213944962-dce58843-96f4-4531-9503-1548cd8e6ed7.mp4?raw=true)
+[Click to see the video](https://user-images.githubusercontent.com/31074930/213944962-dce58843-96f4-4531-9503-1548cd8e6ed7.mp4?raw=true)
 
 ## Table of Contents
 * [Installation](#installation)
