@@ -1,9 +1,10 @@
 
-# :file_folder: Professional README Generator
+# Professional README Generator
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](LICENSE)
+
 ## Description
 This is a command line interface application which creates a README file for your application repositories. This will allow people to understand how your app works, how to install it, and how other developers can contribute to your project. This README.md is being created via this system.
 
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](LICENSE)
 
 https://user-images.githubusercontent.com/31074930/213944962-dce58843-96f4-4531-9503-1548cd8e6ed7.mp4
 
